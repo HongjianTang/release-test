@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://www.github.com/HongjianTang/release-test/compare/v0.0.4...v0.1.0) (2021-04-06)
+
+
+### 🚀 Features
+
+* **地图:** 新增火山地形 ([041026d](https://www.github.com/HongjianTang/release-test/commit/041026d0c3ef165f461e6a5565e2387152753cd4))
+
 ### [0.0.4](https://www.github.com/HongjianTang/release-test/compare/v2.0.0...v0.0.4) (2021-04-06)
 
 

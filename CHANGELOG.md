@@ -1,5 +1,29 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/HongjianTang/release-test/compare/v1.0.0...v2.0.0) (2021-04-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* 假装做了个大功能
+
+### 📄 Documents
+
+* 更新发布文档格式 ([32a0a6a](https://www.github.com/HongjianTang/release-test/commit/32a0a6aac200e11e06f2356e7614cd8736c9298e))
+
+
+### 🚀 Features
+
+* 假装做了个功能 ([6b771fb](https://www.github.com/HongjianTang/release-test/commit/6b771fb7d33be76b2b54ddf8725fa2d24a59d1ec))
+* 假装做了个大功能 ([9f27d68](https://www.github.com/HongjianTang/release-test/commit/9f27d688d54607e1659c85c1391dbf0a003a2ce3))
+* 创建游戏地图 ([13997aa](https://www.github.com/HongjianTang/release-test/commit/13997aa1f88f45180af26299200c324590dc9f29))
+
+
+### 🐛 Bug Fixes
+
+* 修复地图创建错误的bug ([1119175](https://www.github.com/HongjianTang/release-test/commit/111917595ed29ed542b4e94c3486410fa787887a))
+* **地图:** 再假装修复一个bug ([938952f](https://www.github.com/HongjianTang/release-test/commit/938952f3eb79cd7cce045a7fe04c1e3386bc4bc2))
+
 ## 1.0.0 (2021-04-06)
 
 

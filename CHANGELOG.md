@@ -17,9 +17,3 @@
 * create version.txt ([c186477](https://www.github.com/HongjianTang/release-test/commit/c186477783fe93fd0c20b6771258ea8b9edba707))
 * README ([7656ecc](https://www.github.com/HongjianTang/release-test/commit/7656ecc24266e516d5dff6a1a5536d70150df57a))
 * 更新Release格式 ([af08433](https://www.github.com/HongjianTang/release-test/commit/af08433fc78d5bc697239814771cab674fd367b9))
-
-### 1.0.0 (2021-01-21)
-
-### Feat
-
-- Create Repo

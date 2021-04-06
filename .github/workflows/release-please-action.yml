@@ -1,0 +1,31 @@
+- name: release-please-action
+  # You may pin to the exact commit or the version.
+  # uses: google-github-actions/release-please-action@f56f8adcf466bbca4a93bdb614426bde63492f6f
+  uses: google-github-actions/release-please-action@v2.19.2
+  with:
+    # GitHub token for creating and grooming release PRs, defaults to using secrets.GITHUB_TOKEN
+    token: # optional, default is ${{ github.token }}
+    # should the PR be proposed from a fork (does not work with secrets.GITHUB_TOKEN)
+    fork: # optional
+    # Should stale release PRs be closed post release? Defaults to true
+    clean: # optional, default is true
+    # name of the distributions releases are being created for, e.g., "name" in package.json, or "setup.py"
+    package-name: # optional
+    # what type of release is this, one of (ruby, python, node, terraform-module)
+    release-type: 
+    # should breaking changes before 1.0.0 produce minor bumps
+    bump-minor-pre-major: # optional
+    # create a release from a path other than the repository's root
+    path: # optional, default is 
+    # add prefix to tags and branches, allowing multiple libraries to be released from the same repository
+    monorepo-tags: # optional
+    # specify a CHANGELOG path other than the root CHANGELOG.md
+    changelog-path: # optional, default is 
+    # changlelog commit types
+    changelog-types: # optional, default is 
+    # release-please command to run, either "github-release", or "release-pr" (defaults to running both)
+    command: # optional, default is 
+    # provide a path to a version file to increment (used by ruby releaser)
+    version-file: # optional, default is 
+    # branch to open pull release PR against (detected by default)
+    default-branch: # optional, default is 

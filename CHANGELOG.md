@@ -1,5 +1,28 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/HongjianTang/release-test/compare/v2.0.0...v2.1.0) (2021-04-06)
+
+
+### 🚀 Features
+
+* **英雄:** 声明英雄相关类和函数 ([b0ec209](https://www.github.com/HongjianTang/release-test/commit/b0ec209787d2676fd8178b8fb6a4bb7059471d99))
+
+
+### 🔨 Refactor
+
+* 优化代码 ([b612527](https://www.github.com/HongjianTang/release-test/commit/b61252795f1e28dfe2b85882b94c3fb6ff045bff))
+
+
+### 🎨 Content
+
+* 画英雄史莱姆的头像 ([5446b92](https://www.github.com/HongjianTang/release-test/commit/5446b9218cafebf1bfc088d1235f3c6a4da7b78d))
+
+
+### 📄 Documents
+
+* 更新Release文本格式 ([d127b8c](https://www.github.com/HongjianTang/release-test/commit/d127b8cd30e7017134b2027977220e23d1da84fc))
+* 更新版本号 ([09210bb](https://www.github.com/HongjianTang/release-test/commit/09210bb0bc24b21443da9e429576745735658e45))
+
 ## [2.0.0](https://www.github.com/HongjianTang/release-test/compare/v1.0.0...v2.0.0) (2021-04-06)
 
 

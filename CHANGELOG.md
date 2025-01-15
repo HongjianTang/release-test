@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/HongjianTang/release-test/compare/v0.1.0...v0.2.0) (2025-01-15)
+
+
+### 🚀 Features
+
+* **battle:** test battle feature 01 ([2068fe5](https://www.github.com/HongjianTang/release-test/commit/2068fe5b03e81c576e2e1be2b4d2e33439e67f13))
+* **battle:** 战斗功能2 ([4ca0901](https://www.github.com/HongjianTang/release-test/commit/4ca0901227673405fa1a2e3514ba3a19147706d6))
+* 创建Dev分支 ([281873d](https://www.github.com/HongjianTang/release-test/commit/281873d6025b3ca4286bca98478a2e1273815aa9))
+* 实现英雄出生功能 ([d0044a0](https://www.github.com/HongjianTang/release-test/commit/d0044a0035efc89c13e9394d1637e27b571a24b1))
+* 更新release插件配置 ([35dd9c0](https://www.github.com/HongjianTang/release-test/commit/35dd9c097484e87ebb9042103abd1e3bca3e6174))
+
 ## [0.1.0](https://www.github.com/HongjianTang/release-test/compare/v0.0.4...v0.1.0) (2021-04-06)
 
 

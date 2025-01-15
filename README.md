@@ -1,3 +1,3 @@
 # release-test
 
-This is a TEST repo.
+This is a test repo.
